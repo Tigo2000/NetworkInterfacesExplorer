@@ -77,9 +77,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.hotspotdevices"
+    namespace "com.networkinterfacesexplorer"
     defaultConfig {
-        applicationId "com.hotspotdevices"
+        applicationId "com.networkinterfacesexplorer"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
