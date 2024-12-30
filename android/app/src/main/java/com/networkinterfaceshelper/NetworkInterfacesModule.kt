@@ -1,9 +1,5 @@
 package com.networkinterfacesexplorer
 
-import android.content.Context
-import android.net.wifi.WifiManager
-import android.net.ConnectivityManager
-import android.net.NetworkCapabilities
 import android.util.Log
 import com.facebook.react.bridge.ReactApplicationContext
 import com.facebook.react.bridge.ReactContextBaseJavaModule
